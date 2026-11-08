@@ -20,7 +20,7 @@ class HumanPerceptionApp:
         self.csv_filename = "results.csv"
         self.init_csv()
 
-        # Layout Frames
+        # Layout Framess
         self.control_frame = tk.Frame(self.root, width=200, bg="#e0e0e0")
         self.control_frame.pack(side="left", fill="y", padx=10, pady=10)
         
